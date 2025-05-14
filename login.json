@@ -1,0 +1,15 @@
+{
+    "login":[
+        {
+            "name":"PC-1",
+            "host":"1",
+            "client":"1"
+        },
+        {
+            "name":"PC-2",
+            "host":"0",
+            "client":"1"
+        }
+    ]
+
+}
