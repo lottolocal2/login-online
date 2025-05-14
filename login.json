@@ -14,7 +14,12 @@
             "name":"F894C2D0668D_DESKTOP-7D0CP47",
             "host":"1",
             "client":"1"
-        }        
+        },
+        {
+            "name":"AAAA",
+            "host":"1",
+            "client":"1"
+        }      
     ]
 
 }
