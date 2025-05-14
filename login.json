@@ -9,7 +9,12 @@
             "name":"PC-2",
             "host":"0",
             "client":"1"
-        }
+        },,
+        {
+            "name":"F894C2D0668D_DESKTOP-7D0CP47",
+            "host":"0",
+            "client":"1"
+        }        
     ]
 
 }
