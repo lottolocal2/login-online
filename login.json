@@ -11,15 +11,30 @@
             "client":"1"
         },
         {
-            "name":"F894C2D0668D_DESKTOP-7D0CP47*",
+            "name":"F894C2D0668D_DESKTOP-7D0CP47",
             "host":"1",
             "client":"1"
         },
         {
-            "name":"AAAA",
+            "name":"1AE4005C32C5_DESKTOP-NA742FI",
+            "host":"0",
+            "client":"1"
+        },
+        {
+            "name":"PC-3",
             "host":"1",
             "client":"1"
-        }      
+        }      ,
+        {
+            "name":"PC-4",
+            "host":"1",
+            "client":"1"
+        }      ,
+        {
+            "name":"PC-5",
+            "host":"1",
+            "client":"1"
+        }        
     ]
 
 }
