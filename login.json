@@ -44,7 +44,12 @@
             "name":"AE3B70599F4D_DESKTOP-D1IG5M8",
             "host":"0",
             "client":"1"
-        }        
+        },
+        {
+            "name":"7413EAEBFF0F_TOMTAM",
+            "host":"0",
+            "client":"1"
+        }       
         
     ]
 
