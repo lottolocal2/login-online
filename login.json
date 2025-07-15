@@ -34,7 +34,13 @@
             "name":"PC-5",
             "host":"1",
             "client":"1"
-        }        
+        },
+        {
+            "name":"E6FD4538770F_DESKTOP-L9FBRU7",
+            "host":"0",
+            "client":"1"
+        }
+        
     ]
 
 }
