@@ -49,7 +49,13 @@
             "name":"7413EAEBFF0F_TOMTAM",
             "host":"0",
             "client":"1"
+        },
+        {
+            "name":"7613EAEBFF0F_TOMTAM",
+            "host":"0",
+            "client":"1"
         }       
+        
         
     ]
 
