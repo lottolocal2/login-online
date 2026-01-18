@@ -59,7 +59,12 @@
             "name":"1AD224EB7DD6_DESKTOP-ISGPA7Q",
             "host":"0",
             "client":"1"
-        }  
+        },
+        {
+            "name":"C2A5E8CAD26C_INGON",
+            "host":"0",
+            "client":"1"
+        }
         
         
     ]
